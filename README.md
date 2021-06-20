@@ -1,3 +1,5 @@
-CV Anthony-Brantus 
+Voici mon CV avec mon parcourt Développeur Web ! 
 
-Using HTML,CSS,Bootstrap and JS 
+Language et outils de programmation utiliser :
+ 
+    HTML,CSS,Bootstrap
